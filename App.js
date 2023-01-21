@@ -8,7 +8,6 @@ import {
   TouchableOpacity,
   Image,
 } from 'react-native';
-// import { Video } from 'expo-av';
 import Video from 'react-native-video';
 
 const { height, width } = Dimensions.get('window');
